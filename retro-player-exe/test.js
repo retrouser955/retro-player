@@ -1,0 +1,1 @@
+['ee', 'e'].map((_, i) => console.log(i))
